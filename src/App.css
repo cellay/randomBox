@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Lobster|Luckiest+Guy|Nanum+Pen+Script|Orbitron|Sedgwick+Ave+Display|Wallpoet');
+
+.random {
+  font-size: 3em;
+  width: 50vw;
+  height: 40vh;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
